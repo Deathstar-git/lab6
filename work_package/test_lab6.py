@@ -1,4 +1,4 @@
-import bubble_sort
+from work_package import bubble_sort
 import pytest
 
 
