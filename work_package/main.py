@@ -18,3 +18,7 @@ def main():
             bubble_sort.bubble_sort(a)
         else:
             print("Для сортировки списка укажите длину списка больше 1.")
+
+
+if __name__ == "__main__":
+    main()
