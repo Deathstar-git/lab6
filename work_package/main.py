@@ -11,13 +11,11 @@ def main():
         print("Введено неверное значение!")
     else:
         N = Val
-        if N > 1:
-            for i in range(N):
-                a.append(randint(1, 99))
-            print(a)
-            bubble_sort.bubble_sort(a)
-        else:
-            print("Для сортировки списка укажите длину списка больше 1.")
+        for i in range(N):  # Создание списка длинной N
+            a.append(randint(1, 99))  # из случайных значений диапазона
+        print(a)  # отображаем исходный список
+        bubble_sort.bubble_sort(a)  # выполняем сортировку
+        print(a)  # отображаем отсортированный список
 
 
 if __name__ == "__main__":

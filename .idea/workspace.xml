@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06811e4d-4813-452e-869e-64d418bfbd44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work_package/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_package/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_package/test_lab6.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_package/test_lab6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576324025020</updated>
-      <workItem from="1576324026413" duration="6549000" />
+      <workItem from="1576324026413" duration="6650000" />
+      <workItem from="1576388700181" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="Рабочая версия с 10 тестами и пакетом work_package">
       <created>1576345395798</created>
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576345395798</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Рабочая версия с 10 тестами и пакетом work_package">
+      <created>1576346065693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576346065693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -107,6 +119,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Рабочая версия с 10 тестами и пакетом work_package" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/prog6$main.coverage" NAME="main Coverage Results" MODIFIED="1576345963552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work_package" />
+    <SUITE FILE_PATH="coverage/prog6$main.coverage" NAME="main Coverage Results" MODIFIED="1576389271545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work_package" />
   </component>
 </project>
